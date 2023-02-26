@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.holder{
+	background-color: blue;
+    display: grid;gap: 20px;
+grid-template-columns:repeat(2,200px);
+/* grid-templete-row:repeat(2,200px);	 */
+}
+
+.holder>div{
+	background-color: orange; gap:20px;
+	
+}
