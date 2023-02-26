@@ -4,7 +4,7 @@
 	background-color: blue;
     display: grid;gap: 20px;
 grid-template-columns:100px 100px;
-/* grid-templete-row:repeat(2,200px);	 */
+grid-templete-row:repeat(2,100px);	
 }
 
 .holder>div{
